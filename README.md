@@ -1,4 +1,4 @@
-# 💦 Pisschain Blockchain 💦
+# 💦 PISSCHAIN 💦
 
 **Welcome to the future of damp digital finance.**
 
