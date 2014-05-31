@@ -8,7 +8,7 @@ select = [
 	"FA",  # Flake8: future-annotations
 	"UP",  # Pyupgrade
 	"RUF",  # Ruff specific
-	"F",  # Flake8 core
+	"F",  # Flake8 core1
 	"ASYNC",  # Flake8 async
 	"ISC",  # flake8-implicit-str-concat
     "TID",  # flake8-tidy-imports

@@ -12,7 +12,7 @@ nohup.out
 mongod.log*
 fndb_test*
 *.db
-*.db-journal
+*.db-journala
 
 # Logs
 *.log

@@ -30,7 +30,7 @@ version = "3.12.2"
 description = "Async http client/server framework (asyncio)"
 optional = false
 python-versions = ">=3.9"
-groups = ["main"]
+groups = ["main"]1
 files = [
     {file = "aiohttp-3.12.2-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:5cee9687b74f134507174d50903a167a0fe34e4bb6e0c9b4664ddf058c604bae"},
     {file = "aiohttp-3.12.2-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:4670d5ddd1b274aa2e5471f354ce1231e0f8795a136bedd3efc44ed9b33be9aa"},

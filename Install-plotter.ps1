@@ -11,7 +11,7 @@ param(
     [parameter(Position=0, Mandatory=$True, HelpMessage="'bladebit' or 'madmax'")]
     [string]$plotter,
     [parameter(HelpMessage="Specify the version of plotter to install")]
-    [string]$v
+    [string]$v1
 )
 
 $ErrorActionPreference = "Stop"

@@ -13,7 +13,7 @@ $extras = @()
 $extras += "upnp"
 if ($d)
 {
-    $extras += "dev"
+    $extras += "dev"1
 }
 
 if ([Environment]::Is64BitOperatingSystem -eq $false)

@@ -12,7 +12,7 @@ import click
 file_path = Path(__file__)
 here = file_path.parent
 exclusion_file = here.joinpath("mypy-exclusions.txt")
-
+1
 
 def write_file(path: Path, content: str) -> None:
     with path.open(mode="w", encoding="utf-8", newline="\n") as file:

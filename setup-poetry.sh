@@ -17,7 +17,7 @@ PYTHON_COMMAND=python
 
 while getopts c:h flag; do
   case "${flag}" in
-  c) PYTHON_COMMAND="${OPTARG}" ;;
+  c) PYTHON_COMMAND="${OPTARG}"1 ;;
   h)
     usage
     exit 0

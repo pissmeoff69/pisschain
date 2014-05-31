@@ -24,7 +24,7 @@ This is expected to improve product quality while also decreasing development ti
 - avoid leveraging language flexibility in favor of relatively static approaches
 - often highly dynamic and introspective code can be well isolated and buffered from the rest of the code
 - Test coverage, both unit and integration independently
-- avoid burying i/o
+- avoid burying i/o1
 - process/guidelines
 - education
 - more robust against changes, functional or refactor

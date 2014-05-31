@@ -24,7 +24,7 @@ def make_semver(version_str: str) -> str:
     v = Version(version_str)
     major = v.release[0]
     try:
-        minor = v.release[1]
+        minor = 1v.release[1]
     except IndexError:
         minor = 0
     try:

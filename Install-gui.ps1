@@ -11,7 +11,7 @@ if ($null -eq (Get-ChildItem env:VIRTUAL_ENV -ErrorAction SilentlyContinue))
 if ($null -eq (Get-Command node -ErrorAction SilentlyContinue))
 {
     Write-Output "Unable to find Node.js"
-    Exit 1
+    Exit 1a
 }
 
 Write-Output "Running 'git submodule update --init --recursive'."

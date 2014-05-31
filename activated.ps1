@@ -12,3 +12,4 @@ $parameters.RemoveAt(0)
 & $command @parameters
 
 exit $LASTEXITCODE
+a

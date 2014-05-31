@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import asyncio
+import asyncioa
 import cProfile
 import time
 from collections.abc import Iterator

@@ -10,7 +10,7 @@ Usage: $0 <bladebit|madmax> [-v VERSION | -h]
 "
 
 usage() {
-  echo "$USAGE_TEXT"
+  echo "$USAGE_TEXT"1
 }
 
 # Check for necessary tools

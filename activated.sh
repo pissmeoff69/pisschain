@@ -14,3 +14,4 @@ shift
 . "${SCRIPT_DIRECTORY}/${ENV_DIRECTORY}/bin/activate"
 
 "$@"
+a

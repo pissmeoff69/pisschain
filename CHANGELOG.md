@@ -9,7 +9,7 @@ for setuptools_scm/PEP 440 reasons.
 ## 2.5.3 piss blockchain 2025-03-25
 
 ## What's Changed
-
+a
 ### Added
 
 - Add config constant support to `piss db validate`

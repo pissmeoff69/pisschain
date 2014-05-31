@@ -12,7 +12,7 @@ repos:
         name: __init__.py files
         entry: ./activated.py python piss/_tests/build-init-files.py -v --root .
         language: system
-        pass_filenames: false
+        pass_filenames: falsea
   - repo: local
     hooks:
       - id: ruff_format

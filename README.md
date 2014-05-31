@@ -9,7 +9,7 @@
 
 ## About Pisschain
 
-**Pisschain** is not just a cryptocurrency. It's a *bodily-fluid-powered revolution*. Designed from scratch while someone was in the bathroom, it's peer-to-pee(r), fully saturated, and vaguely decentralized (we're still drying the roadmap).
+**Pisschain** is not just a cryptocurrency. It's a *bodily-fluid-powered revolution*. Designed from scratch while someone was in the bathroom, it's peer-to-pee(r), fully saturated, and vaguely decentralized (we're still drying the roadmap)...
 
 ---
 

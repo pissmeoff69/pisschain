@@ -13,7 +13,7 @@ echo "### Checking GUI dependencies"
 
 if [ -d "${SCRIPT_DIR}/.n" ]; then
   export N_PREFIX="${SCRIPT_DIR}/.n"
-  export PATH="${N_PREFIX}/bin:${PATH}"
+  export PATH="${N_PREFIX}/bin:$${PATH}"
   echo "Loading nodejs/npm from"
   echo "  ${N_PREFIX}"
 fi

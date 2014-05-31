@@ -28,4 +28,4 @@ Timelord uses to run the VDF and prove the Proof of Time is `vdf_client` and
 - Similarly, to build vdf_bench set the environment variable BUILD_VDF_BENCH
   to "Y". `export BUILD_VDF_BENCH=Y`.
 
-Building and running Timelords in Windows x86-64 is not yet supported.
+Building and running Timelords in Windows x86-64 is not yet supported

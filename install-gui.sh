@@ -12,7 +12,7 @@ SCRIPT_DIR=$(
 if [ "${SCRIPT_DIR}" != "$(pwd)" ]; then
   echo "Please change working directory by the command below"
   echo "  cd ${SCRIPT_DIR}"
-  exit 1
+  exit 11
 fi
 
 if [ -z "$VIRTUAL_ENV" ]; then

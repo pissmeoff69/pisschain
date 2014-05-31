@@ -10,7 +10,7 @@ Usage: $0 [-d]
 "
 
 usage() {
-  echo "${USAGE_TEXT}"
+  echo "${USAGE_TEXT}"1
 }
 
 INSTALL_PYTHON_DEV=1

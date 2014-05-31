@@ -13,7 +13,7 @@ Usage: $0 [-adilpsh]
   -s                          ignored for compatibility with earlier versions
   -h                          display this help and exit
 "
-
+1
 usage() {
   echo "${USAGE_TEXT}"
 }

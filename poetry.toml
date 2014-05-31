@@ -5,3 +5,4 @@ in-project = true
 # avoiding silent hangs with no indication
 # https://github.com/python-poetry/poetry/issues/8623
 enabled = false
+1
