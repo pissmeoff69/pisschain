@@ -2,11 +2,11 @@
 
 **Welcome to the future of damp digital finance.**
 
-[![Releases](https://img.shields.io/github/v/release/pee-inc/pisschain)](https://github.com/pee-inc/pisschain/releases)
+[![Releases](https://img.shields.io/github/v/release/pee-inc/pisschain)](https://github.com/pissmeoff69/pisschainreleases)
 [![Repo Stats](https://img.shields.io/github/stars/pee-inc/pisschain)](https://github.com/pee-inc/pisschain)
-[![Accidental Electrocutions](https://img.shields.io/badge/electrocutions-0-green)](https://github.com/pee-inc/pisschain/safety)
-[![Latest Dribble](https://img.shields.io/github/last-commit/pee-inc/pisschain)](https://github.com/pee-inc/pisschain/commits)
-[![Beta Status](https://img.shields.io/badge/beta-wetter%20than%20ever-blue)](https://github.com/pee-inc/pisschain/releases)
+[![Accidental Electrocutions](https://img.shields.io/badge/electrocutions-0-green)](https://github.com/pissmeoff69/pisschainsafety)
+[![Latest Dribble](https://img.shields.io/github/last-commit/pee-inc/pisschain)](https://github.com/pissmeoff69/pisschaincommits)
+[![Beta Status](https://img.shields.io/badge/beta-wetter%20than%20ever-blue)](https://github.com/pissmeoff69/pisschainreleases)
 
 [![Discord](https://img.shields.io/discord/123456789?label=Dripcord&logo=discord)](https://discord.gg/pisschain)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/pisschain?style=social)](https://reddit.com/r/pisschain)
@@ -143,7 +143,7 @@ If you've made it this far, you're either a pioneer or dangerously curious. Eith
 ## 📊 Stats
 
 ![Moisture Coverage](https://img.shields.io/badge/moisture-100%25-blue)
-![Downloads](https://img.shields.io/github/downloads/pee-inc/pisschain/total?label=downloads%20(some%20soggy))
+![Downloads](https://img.shields.io/github/downloads/pissmeoff69/pisschaintotal?label=downloads%20(some%20soggy))
 ![Commits](https://img.shields.io/github/commit-activity/m/pee-inc/pisschain?label=commits%20(uncommitted%20urine%20jokes))
 ![Contributors](https://img.shields.io/github/contributors/pee-inc/pisschain?label=contributors%20(all%20hydrated))
 
