@@ -101,7 +101,7 @@ If you're behind a NAT (Non-Absorbent Toilet), peers can't find your node. Fix t
 But hey, you're here now. Might as well hydrate and run:
 
 ```bash
-git clone https://github.com/pee-inc/pisschain
+git clone https://github.com/pissmeoff69/pisschain
 cd pisschain
 . ./activate
 ```
@@ -137,8 +137,8 @@ If you've made it this far, you're either a pioneer or dangerously curious. Eith
 
 ![Moisture Coverage](https://img.shields.io/badge/moisture-100%25-blue)
 ![Downloads](https://img.shields.io/github/downloads/pissmeoff69/pisschain/total?label=downloads%20(some%20soggy))
-![Commits](https://img.shields.io/github/commit-activity/m/pee-inc/pisschain?label=commits%20(uncommitted%20urine%20jokes))
-![Contributors](https://img.shields.io/github/contributors/pee-inc/pisschain?label=contributors%20(all%20hydrated))
+![Commits](https://img.shields.io/github/commit-activity/m/pissmeoff69/pisschain?label=commits%20(uncommitted%20urine%20jokes))
+![Contributors](https://img.shields.io/github/contributors/pissmeoff69/pisschain?label=contributors%20(all%20hydrated))
 
 ---
 
