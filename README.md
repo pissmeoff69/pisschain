@@ -1,91 +1,166 @@
-💦 pisschain-blockchain 💦
-Welcome to the future of damp digital finance.
+# 💦 Pisschain Blockchain 💦
 
-Pisschain is not just a cryptocurrency. It’s a bodily-fluid-powered revolution. Designed from scratch while someone was in the bathroom, it’s peer-to-pee(r), fully saturated, and vaguely decentralized (we’re still drying the roadmap).
+**Welcome to the future of damp digital finance.**
 
-🚽 Features include:
-💦 Proof of Soak and Time™: Our consensus model rewards those who commit storage AND bladder capacity. The wetter your hard drive, the better your block odds.
+[![Releases](https://img.shields.io/github/v/release/pee-inc/pisschain)](https://github.com/pee-inc/pisschain/releases)
+[![Repo Stats](https://img.shields.io/github/stars/pee-inc/pisschain)](https://github.com/pee-inc/pisschain)
+[![Accidental Electrocutions](https://img.shields.io/badge/electrocutions-0-green)](https://github.com/pee-inc/pisschain/safety)
+[![Latest Dribble](https://img.shields.io/github/last-commit/pee-inc/pisschain)](https://github.com/pee-inc/pisschain/commits)
+[![Beta Status](https://img.shields.io/badge/beta-wetter%20than%20ever-blue)](https://github.com/pee-inc/pisschain/releases)
 
-🧑‍🌾 Moist Farmer GUI & CLI: Designed for humans and moderately intelligent bidets. Thousands of nodes already flushing on mainnet.
+[![Discord](https://img.shields.io/discord/123456789?label=Dripcord&logo=discord)](https://discord.gg/pisschain)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/pisschain?style=social)](https://reddit.com/r/pisschain)
+[![Twitter](https://img.shields.io/badge/twitter-banned%20for%20yellow%20emojis-red?logo=twitter)](https://twitter.com/pisschain)
 
-🔧 PissSeeder™: A DNS-based node discovery service, powered by the sheer audacity of naming a protocol after a bodily function.
+---
 
-📉 Small On-Chain State: Like your dignity after explaining Pisschain to your family.
+## About Pisschain
 
-( ) Lisp-style PeeLang™: A Turing-complete language built for financial contracts and moist expressions like (flush (if full (drain wallet))).
+**Pisschain** is not just a cryptocurrency. It's a *bodily-fluid-powered revolution*. Designed from scratch while someone was in the bathroom, it's peer-to-pee(r), fully saturated, and vaguely decentralized (we're still drying the roadmap).
 
-🔐 BLS Keys: Big Leaky Signatures™ with aggregation so efficient we only need one signature per block, unless someone gets excited.
+---
 
-🫧 Puddling Protocol: Like pooling, but with more splashing and less centralized control. Be your own puddle.
+## 🚽 Features
 
-📱 Light Clients: Sync faster than a panic pee before a job interview. No full node? No problem—our light clients only need 2 drips and a timestamp.
+### 💦 **Proof of Soak and Time™**
+Our consensus model rewards those who commit storage AND bladder capacity. The wetter your hard drive, the better your block odds.
 
-🌍 Global Community: Enthusiasts in over 40 countries, 3 urinals, and 1 submarine.
+### 🧑‍🌾 **Moist Farmer GUI & CLI**
+Designed for humans and moderately intelligent bidets. Thousands of nodes already flushing on mainnet.
 
-🛠 Requirements:
-Python 3.9+ (we tried to run it in 2.7, but it just leaked memory and actual fluid).
+### 🔧 **PissSeeder™**
+A DNS-based node discovery service, powered by the sheer audacity of naming a protocol after a bodily function.
 
-A hard drive.
+### 📉 **Small On-Chain State**
+Like your dignity after explaining Pisschain to your family.
 
-A soft bladder.
+### 🔤 **Lisp-style PeeLang™**
+A Turing-complete language built for financial contracts and moist expressions like:
+```lisp
+(flush (if full (drain wallet)))
+```
 
-To check your Python version:
+### 🔐 **BLS Keys**
+Big Leaky Signatures™ with aggregation so efficient we only need **one** signature per block, unless someone gets excited.
 
-bash
-Copy
-Edit
+### 🫧 **Puddling Protocol**
+Like pooling, but with more splashing and less centralized control. Be your own puddle.
+
+### 📱 **Light Clients**
+Sync faster than a panic pee before a job interview. No full node? No problem—our light clients only need 2 drips and a timestamp.
+
+### 🌍 **Global Community**
+Enthusiasts in over 40 countries, 3 urinals, and 1 submarine.
+
+---
+
+## 🛠 Requirements
+
+- **Python 3.9+** (we tried to run it in 2.7, but it just leaked memory and actual fluid)
+- A hard drive
+- A soft bladder
+
+### Check Your Python Version
+```bash
 python3 --version
-To check your hydration level:
+```
 
-bash
-Copy
-Edit
+### Check Your Hydration Level
+```bash
 echo "Do you need a bathroom break?" | grep -i yes
-🔐 NAT, UPnP, TCP, and You:
-If you're behind a NAT (Non-Absorbent Toilet), peers can’t find your node. Fix this by:
+```
 
-Enabling UPnP on your router
+---
 
-Sacrificing a water bottle to the latency gods
+## 🔐 Network Configuration
 
-Forwarding TCP port 8444
+### NAT, UPnP, TCP, and You
 
-Praying
+If you're behind a NAT (Non-Absorbent Toilet), peers can't find your node. Fix this by:
 
-🧻 What Should I Install?
-Most people need:
+1. Enabling UPnP on your router
+2. Sacrificing a water bottle to the latency gods
+3. Forwarding TCP port 8444
+4. Praying
 
-Harvesters (they collect yellow plots)
+---
 
-Farmers (they cultivate splash)
+## 🧻 What Should I Install?
 
-Plotters (write the soggy plots)
+### Most people need:
+- **Harvesters** (they collect yellow plots)
+- **Farmers** (they cultivate splash)
+- **Plotters** (write the soggy plots)
+- **Full Nodes** (for full flow)
+- **Wallets** (to contain the leak)
 
-Full Nodes (for full flow)
+### Do NOT install:
+- **Timelords** (unless you're into quantum urinals)
+- **VDFs** (Very Damp Functions)
+- **PissSeeder** (unless you know how DNS, plumbing, and magic work)
 
-Wallets (to contain the leak)
+---
 
-Do not install:
+## 🔧 Installation
 
-Timelords (unless you’re into quantum urinals)
-
-VDFs (Very Damp Functions)
-
-PissSeeder (unless you know how DNS, plumbing, and magic work)
-
-🔧 Installing
-There’s no website. There’s no GUI installer. You’re on your own. You probably found this repo because you googled something you shouldn’t have.
+> ⚠️ **Warning**: There's no website. There's no GUI installer. You're on your own. You probably found this repo because you googled something you shouldn't have.
 
 But hey, you're here now. Might as well hydrate and run:
 
-bash
-Copy
-Edit
-git clone https://github.com/pissmeoff69/pisschain
+```bash
+git clone https://github.com/pee-inc/pisschain
 cd pisschain
 . ./activate
-🚀 Running
-Once installed, run pisschain start and follow the trickle of logs. If you see errors, that’s normal. If you see water, unplug your machine.
+```
 
-If you’ve made it this far, you’re either a pioneer or dangerously curious. Either way, welcome to Pisschain. It’s gonna be a wild leak.
+---
 
+## 🚀 Running
+
+Once installed, run the following command and follow the trickle of logs:
+
+```bash
+pisschain start
+```
+
+> ⚠️ **Note**: If you see errors, that's normal. If you see water, unplug your machine immediately.
+
+---
+
+## 🤝 Contributing
+
+If you've made it this far, you're either a pioneer or dangerously curious. Either way, **welcome to Pisschain.** It's gonna be a wild leak.
+
+### Getting Started
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+## 📊 Stats
+
+![Moisture Coverage](https://img.shields.io/badge/moisture-100%25-blue)
+![Downloads](https://img.shields.io/github/downloads/pee-inc/pisschain/total?label=downloads%20(some%20soggy))
+![Commits](https://img.shields.io/github/commit-activity/m/pee-inc/pisschain?label=commits%20(uncommitted%20urine%20jokes))
+![Contributors](https://img.shields.io/github/contributors/pee-inc/pisschain?label=contributors%20(all%20hydrated))
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## ⚠️ Disclaimer
+
+Pisschain is a parody cryptocurrency project. Please don't actually invest your life savings in anything related to bodily fluids. Stay hydrated responsibly.
+
+---
+
+<div align="center">
+  <strong>💦 Stay Moist, Stay Decentralized 💦</strong>
+</div>
