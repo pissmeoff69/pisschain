@@ -2,10 +2,7 @@
 
 **Welcome to the future of damp digital finance.**
 
-[![Releases](https://img.shields.io/github/v/release/pee-inc/pisschain)](https://github.com/pissmeoff69/pisschain)
-[![Repo Stats](https://img.shields.io/github/stars/pee-inc/pisschain)](https://github.com/pee-inc/pisschain)
 [![Accidental Electrocutions](https://img.shields.io/badge/electrocutions-0-green)](https://github.com/pissmeoff69/pisschain)
-[![Latest Dribble](https://img.shields.io/github/last-commit/pee-inc/pisschain)](https://github.com/pissmeoff69/pisschain)
 [![Beta Status](https://img.shields.io/badge/beta-wetter%20than%20ever-blue)](https://github.com/pissmeoff69/pisschain)
 
 ---
