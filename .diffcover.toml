@@ -1,0 +1,4 @@
+[tool.diff_cover]
+exclude = [
+    "*/piss/_tests/*/config.py",
+]
